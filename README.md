@@ -71,8 +71,7 @@ Develop a **predictive maintenance model** capable of anticipating machine failu
 - **Target**: Failure type classification
 
 ### Input Features
-<div align="center">
-  
+
 | Feature | Description |
 |---------|-------------|
 | UDI | Unique Device Identifier |
@@ -83,7 +82,6 @@ Develop a **predictive maintenance model** capable of anticipating machine failu
 | Rotational speed [rpm] | Machine rotational speed |
 | Torque [Nm] | Applied torque |
 | Tool wear [min] | Tool wear duration |
-</div>
 
 ## 🤖 Algorithm & Results
 
