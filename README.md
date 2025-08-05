@@ -134,16 +134,12 @@ This project successfully demonstrates a **machine learning-based predictive mai
 
 The solution effectively addresses industrial challenges through comprehensive preprocessing, automated model tuning, and cloud-based deployment, ultimately enhancing operational efficiency.
 
+<div align="center">
 ## 👨‍💻 Author
 
 **Gautam Tripathi**
 
 ---
 
-<div align="center">
-
-**Made with ❤️ using IBM Watson Studio**
-
-[![IBM](https://img.shields.io/badge/Powered%20by-IBM%20Watson%20Studio-blue.svg)](https://www.ibm.com/cloud/watson-studio)
 
 </div>
