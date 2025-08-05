@@ -134,7 +134,6 @@ This project successfully demonstrates a **machine learning-based predictive mai
 
 The solution effectively addresses industrial challenges through comprehensive preprocessing, automated model tuning, and cloud-based deployment, ultimately enhancing operational efficiency.
 
-<div align="center">
 ## 👨‍💻 Author
 
 **Gautam Tripathi**
