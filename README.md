@@ -1,10 +1,12 @@
 # 🏭 Predictive Maintenance of Industrial Machinery Using Machine Learning
+<div align="center">
 
 [![IBM Watson Studio](https://img.shields.io/badge/IBM-Watson%20Studio-blue.svg)](https://www.ibm.com/cloud/watson-studio)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-green.svg)](https://scikit-learn.org/)
 [![Accuracy](https://img.shields.io/badge/Accuracy-99.5%25-brightgreen.svg)]()
 
+</div>
 ## 🎯 Project Overview
 
 This **capstone project** demonstrates a cutting-edge **Predictive Maintenance System** for industrial machinery using IBM Watson Studio's automated machine learning capabilities. The system achieves **99.5% accuracy** in predicting equipment failures before they occur, enabling proactive maintenance scheduling and significantly reducing operational downtime.
