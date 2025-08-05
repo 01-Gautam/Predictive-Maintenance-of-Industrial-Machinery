@@ -72,6 +72,7 @@ Develop a **predictive maintenance model** capable of anticipating machine failu
 
 ### Input Features
 <div align="center">
+  
 | Feature | Description |
 |---------|-------------|
 | UDI | Unique Device Identifier |
