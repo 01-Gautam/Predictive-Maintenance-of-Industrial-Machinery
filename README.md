@@ -145,7 +145,7 @@ The solution effectively addresses industrial challenges through comprehensive p
 
 ## 👨‍💻 Author
 
-**Gautam Tripathi**
+<h2>**Gautam Tripathi**</h2>
 
 ---
 
